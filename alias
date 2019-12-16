@@ -1,0 +1,4 @@
+alias tailf='tail -f'
+
+# git flow
+alias gf='git flow'

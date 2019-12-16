@@ -1,0 +1,9 @@
+[user]
+	email = zxyful@gmail.com
+	name = zxyle
+[push]
+	default = simple
+[core]
+	editor = vim
+[color]
+	ui = auto
