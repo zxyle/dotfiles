@@ -9,5 +9,5 @@ cd ~
 
 git clone in home directory 
 ```bash
-git clone git@github.com:zxyle/dotfiles.git ./
+git clone https://github.com/zxyle/dotfiles.git ./
 ```
