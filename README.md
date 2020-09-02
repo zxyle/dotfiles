@@ -1,5 +1,8 @@
 # dotfiles
 
+## Intro
+This is my workspace configuration file, including common configuration, mirror source and some shell scripts.
+
 ## Usage
 
 ### 1. Switch to home directory
@@ -26,3 +29,6 @@ rm -rf tmp/
 ```bash
 git reset --hard HEAD
 ```
+
+## License
+MIT
