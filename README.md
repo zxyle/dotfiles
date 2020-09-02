@@ -19,7 +19,7 @@ mv tmp/.git .
 
 ### 4. delete tmp directory
 ```bash
-rmdir tmp
+rm -rf tmp/
 ```
 
 ### 5. reset
