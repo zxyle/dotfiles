@@ -1,0 +1,8 @@
+{
+  "registry-mirrors": [
+    "https://d1zfuwq5.mirror.aliyuncs.com"
+  ],
+  "insecure-registries": [],
+  "debug": true,
+  "experimental": false
+}
