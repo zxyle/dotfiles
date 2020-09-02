@@ -2,12 +2,27 @@
 
 ## Usage
 
-Switch to home directory
+### 1. Switch to home directory
 ```bash
 cd ~
 ```
 
-git clone in home directory 
+### 2. git clone in tmp directory 
 ```bash
-git clone https://github.com/zxyle/dotfiles.git ./
+git clone https://github.com/zxyle/dotfiles.git tmp
+```
+
+### 3. move `.git` directory to home directory
+```bash
+mv tmp/.git .
+```
+
+### 4. delete tmp directory
+```bash
+rmdir tmp
+```
+
+### 5. reset
+```bash
+git reset --hard HEAD
 ```
