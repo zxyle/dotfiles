@@ -3,6 +3,20 @@
 ## Intro
 This is my workspace configuration file, including common configuration, mirror source and some shell scripts.
 
+It supports the following features:
+
+### Languages:
+- Python
+- Rust
+- PHP
+- Ruby
+
+### Tools
+- docker
+- maven
+- npm
+- vim
+
 ## Usage
 
 ### 1. Switch to home directory
@@ -10,17 +24,17 @@ This is my workspace configuration file, including common configuration, mirror 
 cd ~
 ```
 
-### 2. git clone in tmp directory 
+### 2. git clone to `tmp` directory 
 ```bash
 git clone https://github.com/zxyle/dotfiles.git tmp
 ```
 
-### 3. move `.git` directory to home directory
+### 3. move `.git` directory to home directory (don't forget last point)
 ```bash
-mv tmp/.git .
+mv tmp/.git  .
 ```
 
-### 4. delete tmp directory
+### 4. delete `tmp` directory
 ```bash
 rm -rf tmp/
 ```
