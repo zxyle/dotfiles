@@ -47,5 +47,19 @@ rm -rf tmp/
 git reset --hard HEAD
 ```
 
+## FAQ
+### 1. How to install git before executing the above code?
+If you are a `centos` user, please refer to the following command to install
+```
+yum update
+yum install git -y
+```
+
+If you are a `debian` or `ubuntu` user, please refer to `.scripts/modify-xxx-mirror.sh` to modify mirror. Then install it
+```
+apt-get update
+apt-get install git -y
+```
+
 ## License
 MIT
