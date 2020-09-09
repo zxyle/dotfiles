@@ -10,12 +10,15 @@ It supports the following features:
 - Rust
 - PHP
 - Ruby
+- Golang
+- Java
 
 ### Tools
 - docker
 - maven
 - npm
 - vim
+- Homebrew
 
 ## Usage
 
