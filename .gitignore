@@ -1,1 +1,46 @@
 .idea
+
+# ssh
+.ssh/id_rsa
+.ssh/id_rsa.pub
+.ssh/known_hosts
+
+# Mac
+Applications
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+
+
+# IDE / text editor
+PycharmProjects
+IdeaProjects
+eclipse-workspace
+.vscode
+.viminfo
+
+
+# others
+.DS_Store
+.CFUserTextEncoding
+.config/
+.docker/application-template/
+.eclipse/
+.oh-my-zsh/
+.oracle_jre_usage/
+.p2/
+.python_history
+.tooling/
+.wget-hsts
+.zprofile
+.zsh_history
+.zshrc
+.zshrc.pre-oh-my-zsh
+developer/
+eclipse/
+.zcompdump-*
