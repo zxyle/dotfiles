@@ -75,3 +75,4 @@ store/
 
 .bash_history
 .bash_sessions/
+.m2/repository/
