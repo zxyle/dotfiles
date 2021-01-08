@@ -73,3 +73,5 @@ Virtual Machines.localized/
 logs/
 store/
 
+.bash_history
+.bash_sessions/
