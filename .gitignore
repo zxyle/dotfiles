@@ -58,3 +58,18 @@ eclipse-workspace
 developer/
 eclipse/
 .zcompdump-*
+.SpechtLite/
+.SwitchHosts/
+.cups/
+.docker/scan/
+.npm/
+.snipaste/
+.sonarlint/
+.swt/
+.translation/
+.vs-kubernetes/
+.zsh_sessions/
+Virtual Machines.localized/
+logs/
+store/
+
