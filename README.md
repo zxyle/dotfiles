@@ -32,6 +32,12 @@ cd ~
 git clone https://github.com/zxyle/dotfiles.git tmp
 ```
 
+or
+```bash
+git clone https://gitee.com/zxyle/dotfiles.git tmp
+```
+
+
 ### 3. move `.git` directory to home directory (don't forget last point)
 ```bash
 mv tmp/.git  .
